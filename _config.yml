@@ -1,2 +1,3 @@
 name: Woodybrood's Words of Wisdom
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
