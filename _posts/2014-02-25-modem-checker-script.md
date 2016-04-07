@@ -41,10 +41,10 @@ and extract the the rows from the table.
 
 
 
-''' ruby
+``` ruby
     doc = Nokogiri::HTML(open(url))
     doc.xpath(&quot;//table/tbody/tr[not(th)]&quot;).reverse_each do |row|
-'''
+```
 
 I know XPath is not the always nicest way to do things, but with the lack of
 styling in the table and the simplicity of the page, it seemed a reliable
@@ -66,14 +66,14 @@ current date.
 
 
 
-'''ruby
+``` ruby
     if newer?(get_highest_timestamp(db), timestamp)
        db.execute(&quot;insert into log (timestamp, level, code, message) values(?,?,?,?); &quot;, timestamp, level, code, message )
         # push happens here
     else
        # do nothing
     end
-'''
+```
 
 
 Each every entry, except those stamped 1970, gets logged to the database.
@@ -98,11 +98,11 @@ reboot code) while saving the log page table contents to the SQLite3 database.
 
 
 
-'''ruby
+``` ruby
 if code == 'Z00.0'
        pusher.push_notification(&quot;The modem rebooted at #{timestamp}.&quot;, &quot;Modem reboot alert&quot;)
 end
-'''
+```
 
 ## The Pusher
 
