@@ -118,14 +118,14 @@ way I don’t like, or if I decide to change push provider). I created
 PushNotifier to ecapsulate the interactions with Rusover. The following code
 demonstrates how I send the push notification:
 
-'''ruby
+``` ruby
 def push_notification_impl(message, title, current_time)
     unless is_during_quiet_period?(current_time)
         resp = @rushover_client.notify(@user_key, message, :priority =&gt; @priority, :title =&gt; title, :sound =&gt;@sound)
         resp.ok? # =&gt; true =
     end
 end
-'''
+```
 
 You get the user_key from Pushover.net. You also need to create an application
 key for each application or script that you want to send distinct
@@ -175,6 +175,6 @@ own.
 
 * * *
 
-  1. In a future post, I will talk more about my love of Sinatra.  ↩
+  1. In a future post, I will talk more about my love of Sinatra.
 
 
