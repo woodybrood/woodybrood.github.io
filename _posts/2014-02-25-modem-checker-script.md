@@ -42,8 +42,8 @@ and extract the the rows from the table.
 
 
 ``` ruby
-    doc = Nokogiri::HTML(open(url))
-    doc.xpath(&quot;//table/tbody/tr[not(th)]&quot;).reverse_each do |row|
+doc = Nokogiri::HTML(open(url))
+doc.xpath(&quot;//table/tbody/tr[not(th)]&quot;).reverse_each do |row|
 ```
 
 I know XPath is not the always nicest way to do things, but with the lack of
@@ -67,12 +67,12 @@ current date.
 
 
 ``` ruby
-    if newer?(get_highest_timestamp(db), timestamp)
-       db.execute(&quot;insert into log (timestamp, level, code, message) values(?,?,?,?); &quot;, timestamp, level, code, message )
-        # push happens here
-    else
-       # do nothing
-    end
+if newer?(get_highest_timestamp(db), timestamp)
+   db.execute(&quot;insert into log (timestamp, level, code, message) values(?,?,?,?); &quot;, timestamp, level, code, message )
+    # push happens here
+else
+   # do nothing
+end
 ```
 
 
