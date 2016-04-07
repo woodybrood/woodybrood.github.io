@@ -47,7 +47,6 @@ pass on the question to the Lead BA (Barbara). After all, Barbara is the
 person who should be nailing down the requirements and would understand if the
 functionality request was a scope change.
 
-
 Saying "Tester, Know thy Place" is a bit extreme. In general, most of the time
 I've heard this said it was out of ignorance of what testers can do and can
 contribute to a project. At the same time, testers do need to know and
