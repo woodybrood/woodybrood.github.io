@@ -2,6 +2,10 @@
 layout: post
 title: "FitNesse Licensing and Future Test OSS Tools"
 date: 2008-12-08
+category: articles
+tags:
+- fitnesse
+- opensource
 ---
 
 FitNesse and dbFit are both released under the GPL version 2. I have to say I

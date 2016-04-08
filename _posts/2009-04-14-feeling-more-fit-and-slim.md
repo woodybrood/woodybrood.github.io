@@ -2,6 +2,9 @@
 layout: post
 title: "Feeling more Slim than Fit"
 date: 2009-04-14
+category: articles
+tags:
+- fitnesse
 ---
 
 It's been forever again since I last posted. My last post was on FitNesse and
@@ -41,7 +44,7 @@ build it using the scenario tables.
 
 It's late and I'm getting tired, but I will be posting more about FitNesse. I
 doubt I can out-do the wonderful tutorial available here:
-http://schuchert.wikispaces.com/FitNesse.Tutorials. Brett is doing some great
+[http://schuchert.wikispaces.com/FitNesse.Tutorials](http://schuchert.wikispaces.com/FitNesse.Tutorials). Brett is doing some great
 stuff there. I will try to contribute what I can to the community. So it might
 be some thoughts and pointers. Eventually it will be the vim syntax coloring
 file that I've been working on.

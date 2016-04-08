@@ -2,6 +2,9 @@
 layout: post
 title: "Been a while"
 date: 20007-08-06
+category: articles
+tags:
+- misc
 ---
 It's been a long time since I've posted. As it goes with a lot of folks who
 think they want to blog, the commitment is hard to put ahead of family and

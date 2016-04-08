@@ -2,6 +2,9 @@
 layout: post
 title: "Who Tested This?"
 date: 2007-05-08
+category: articles
+tags:
+- testing
 ---
 Truly this is one of the most frustrating and chilling phrases in software
 testing. Who hasn't heard it at some point? Eventually it happens to all

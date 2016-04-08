@@ -2,6 +2,10 @@
 layout: post
 title: "Tester, Know Thy Role"
 date: 2007-06-20
+category: articles
+tags:
+- testing
+- mspin
 ---
 
 Recently I attended a great presentation at my local SPIN meeting ([Milwaukee

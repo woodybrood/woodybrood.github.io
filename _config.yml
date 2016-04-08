@@ -56,20 +56,30 @@ locales:
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
-      - name: Freshman
-        href: http://yulijia.net/freshman
-        title: Another Jekyll blog theme
-      - name: author's website
-        href: http://yulijia.net/
-        title: Lijia Yu's website
+      - name: The Clean Code Blog
+        href: http://bloc.cleancoder.com
+        title: Uncle Bob's thoughts on development
+      - name: Macstories
+        href: http://macstories.net
+        title: One of the best places for Apple related news
+      - name: Brett Terpstra
+        href: http://brettterpstra.com
+        title: Brett is a fantastic creator of tools for mac users
+      - name: One Thing Well
+        href: http://onethingwell.org
+        title: Each day new tools that do one thing, but do it well
 
 
 ### Build settings
 markdown: kramdown
-highlighter: rouge
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+
+# redcarpet:
+#   extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
+#highlighter: rouge
 kramdown:
-        input: GFM
-        syntax_highlighter: rouge
+    input: GFM
+    highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 5
 excerpt_separator: <!-- more -->
