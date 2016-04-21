@@ -7,7 +7,7 @@ tags:
 - open source 
 - design
 ---
-Bootstrap[^1] has been around for a number of years now. Open sourced by Twitter, its popularity grew so fast that it inspired a bit of reaction.[^2] And not without reason. Numerous websites took the bootstrap framework and slapped it on like the latest fashion trend. The result being a certain sense of sameness across the web. It's only been five years, but it certainly seems like it has been around a lot longer than that. And bootstrap is still spreading out there. It's added some new tricks during that time, and people are still pointing out the sameness spreading across more sites.[^3]
+![With and without bootstrap](/images/with_and_without_bootstrap.png)Bootstrap[^1] has been around for a number of years now. Open sourced by Twitter, its popularity grew so fast that it inspired a bit of reaction.[^2] And not without reason. Numerous websites took the bootstrap framework and slapped it on like the latest fashion trend. The result being a certain sense of sameness across the web. It's only been five years, but it certainly seems like it has been around a lot longer than that. And bootstrap is still spreading out there. It's added some new tricks during that time, and people are still pointing out the sameness spreading across more sites.[^3]
 
 And while I agree the public facing image of any business should be expressive of that company, I love to use Bootstrap. I am not a designer. I don't think in CSS, except when I am trying to create Selenium locators. I also don't build stuff that is the public face of any business. I make tools that are used by a limited set of people, and sometimes it's just me. So originality in web design isn't where I should be spending my efforts
 
