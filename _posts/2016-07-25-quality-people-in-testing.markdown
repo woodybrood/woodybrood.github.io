@@ -23,6 +23,7 @@ So I will say it here: considering yourself a Context Driven Tester does not mak
 For all the complaining in my previous post, and the recriminations on twitter and the aforementioned blog posts, there are good people out there in testing. And not just a few. Some have been around for a while now. Others are more recent additions. And some have "left" us (though I don't accept their resignation, they can be programmers now, they are still testers to me).
 
 So Jim Holmes ([@aJimHolmes](http://twitter.com/aJimHolmes)) sort of beat me to this when he posted this:
+
 >All the kerfuffle over the last few weeks made me think how *I* want to be viewed as a tester. Ergo my own credo. [http://twitter.com/aJimHolmes/status/755142010714091521/photo/1](http://twitter.com/aJimHolmes/status/755142010714091521/photo/1)
 
 I've been working on this for a bit. And similar to what Jim posted about himself, rather than archetypes, here is a list of traits of Quality People in testing:
