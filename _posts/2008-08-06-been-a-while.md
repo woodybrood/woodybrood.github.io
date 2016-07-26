@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Been a while"
-date: 20007-08-06
+date: 2007-08-06
 category: articles
 tags:
 - misc
