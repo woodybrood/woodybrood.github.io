@@ -5,7 +5,7 @@ category: articles
 tags: 
 - ponderings
 ---
-In my last post, The [A\*\*hats of Testing](), I went on a rant about archetypes of people in testing that get on my nerves. I had mixed feelings about putting that post out there. I was nervous as it was a rant. It didn't bring much to the table except a list of frustrations.
+In my last post, The [A\*\*hats of Testing](http://woodybrood.github.io/articles/2016/05/24/the-ahats-of-testing.html), I went on a rant about archetypes of people in testing that get on my nerves. I had mixed feelings about putting that post out there. I was nervous as it was a rant. It didn't bring much to the table except a list of frustrations.
 
 I've been working on a follow up for a while now, and it took a bit for me to decide on the approach. But before I get to content to match the title of this post, I want to reflect on the A\*\*hats. 
 
@@ -28,7 +28,7 @@ So Jim Holmes ([@aJimHolmes](http://twitter.com/aJimHolmes)) sort of beat me to 
 
 I've been working on this for a bit. And similar to what Jim posted about himself, rather than archetypes, here is a list of traits of Quality People in testing:
 
-- **Reasonable:** Testers are a tricky bunch. We send out days holding products, and people to exacting standards. It's what we're paid to do. But I think we're at our best when we listen to and respect each other. 
+- **Reasonable:** Testers are a tricky bunch. We spend our days holding products, and people to exacting standards. It's what we're paid to do. But I think we're at our best when we listen to and respect each other. 
 - **Passionate:** The best testers care. They demonstrate that caring by being passionate about the product they work on. the team they work with, and the customer who will use the product. And they are passionate about testing. 
 - **Clever:** Testers are a smart bunch. It takes a clever person to figure their way around the products we test. It takes a clever person to come up with new approaches to the process of testing; approaches that change the way people work.
 - **Bridge Builders:** Some of the best out there are looking at how to help testers work with others; whether that is in Agile, DevOps, or some other process. Bridge builders help others remember the value that can come from people who are good at finding problems.
